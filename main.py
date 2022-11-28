@@ -263,7 +263,7 @@ def onmessage(update,bot:ObigramClient):
         tl_admin_user = os.environ.get('killerj00')
 
         #Descomentar debajo solo si se ba a poner el usuario admin de telegram manual
-        tl_admin_user = 'killerj00','ecsuarez'
+        tl_admin_user = ['killerj00','ecsuarez']
 
         jdb = JsonDatabase('database')
         jdb.check_create()
