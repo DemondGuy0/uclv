@@ -1,6 +1,6 @@
 "name": "uclv",
     "version": "1.0.0",
-    "description": "",
+    "description": "download",
     "scripts": {
         "build": "echo \"No build specified\" && exit 1",
         "test": "echo \"No test specified\" && exit 1",
@@ -10,7 +10,7 @@
         "type": "git",
         "url": "git+https://github.com/DemondGuy0/uclv.git"
     },
-    "author": "",
+    "author": "killerj00",
     "license": "ISC",
     "bugs": {
         "url": "https://github.com/DemondGuy0/uclv/issues"
