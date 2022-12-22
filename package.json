@@ -1,5 +1,4 @@
 "name": "uclv",
-4    "version": "1.0.0",
 5    "description": "Bot para la descarga de archivos",
 6    "scripts": {
 7        "build": "echo \"No build specified\" && exit 1",
